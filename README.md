@@ -6,20 +6,25 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on **Cloud-based projects** and automation solutions<br><br>
-🌱 I’m expanding my expertise in **AWS Services, DevOps tools, and Backend Development**<br><br>
-🎓 **AWS Certified Developer – Associate** (Earned 2025)<br><br>
-🤝 I’m open to collaboration on **SaaS, Cloud, or Web App projects**<br><br>
-👨‍💻 Check out my work: [huesofhimanshu.com](https://huesofhimanshu.com/)<br><br>
-💬 Ask me about **AWS, Java, or Designing & Video Editing**<br><br>
-📫 Reach me at **himanshumaps@gmail.com**<br><br>
-📄 My résumé: [View PDF](https://huesofhimanshu.com/himanshu_resume.pdf)<br><br>
-⚡ Fun fact: I think I’m funny, but my humor is as dark as my coffee ☕
 
----
+<div align="left">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meuhimanshu) 
+<img align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" alt="computer working gif">
+
+🔭 I’m currently working on **Cloud-based projects** and automation solutions  
+<br>
+
+🌱 Expanding my expertise in **AWS Services, DevOps tools, and Backend Development**  
+<br>
+
+🎓 **AWS Certified Developer – Associate (2025)**  
+<br>
+
+🤝 Open to collaboration on **SaaS, Cloud, or Web App projects**  
+<br>
+
+👨‍💻 Check out my work: [huesofhimanshu.com](https://huesofhimanshu.com/)
+</div>
 
 ---
 
